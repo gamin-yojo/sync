@@ -3,8 +3,8 @@
 某のひとたちと、某のための某投稿サイト。
 フロント担当。
 
-<img width="300px src="readme/comp.png">
-                                                   
+<img src="./readme/comp.png" width="300px">
+
 # 2.学び
 
 制作で得た知識・技術
