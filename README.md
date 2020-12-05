@@ -3,7 +3,7 @@
 某のひとたちと、某のための某投稿サイト。
 フロント担当。
 
-<img width="300px src="readme/comp.png" alt="サイト全体">
+<img width="300px src="readme/comp.png">
                                                    
 # 2.学び
 
