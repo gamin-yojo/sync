@@ -1,7 +1,7 @@
 # 1.概要
 某のひとたちと、某のための某投稿サイト。
 フロント担当。
-<img with="300px src="readme/comp.png" alt="サイト全体">
+<img with="300px src="readme/comp.png" alt="サイト全体" />
 
 # 2.学び
 制作で得た知識・技術
